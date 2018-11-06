@@ -2,8 +2,9 @@
 //
 
 #include "my_header.h"
-
+#include <stdio.h>
 int main(void)
 {
-    return 0;
+	printf("hello world");   
+	return 0;
 }
