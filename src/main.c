@@ -11,8 +11,9 @@ int main(void)
     while(n<50)
     {
         S1 = S1 * n;
-        n = n + 1;
-    }
+        n = n + 2;
+    
+	}
 
     return 0;
 }
